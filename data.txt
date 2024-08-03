@@ -1,0 +1,62 @@
+Question: What is the capital of France? Answer: Paris.
+Question: Who wrote “Romeo and Juliet”? Answer: William Shakespeare.
+Question: What is the largest ocean on Earth? Answer: Pacific Ocean.
+Question: What is the tallest mammal on land? Answer: Giraffe.
+Question: Who painted the Mona Lisa? Answer: Leonardo da Vinci.
+Question: What is the currency of Japan? Answer: Yen.
+Question: What is the longest river in the world? Answer: Nile River.
+Question: What is the capital of Australia? Answer: Canberra.
+Question: Who invented the light bulb? Answer: Thomas Edison.
+Question: What is the smallest planet in our solar system? Answer: Mercury.
+Question: Who discovered penicillin? Answer: Alexander Fleming.
+Question: What is the largest continent? Answer: Asia.
+Question: What is the highest mountain in the world? Answer: Mount Everest.
+Question: Who wrote “Harry Potter”? Answer: J.K. Rowling.
+Question: What is the capital of Italy? Answer: Rome.
+Question: What is the chemical symbol for gold? Answer: Au (from the Latin word “aurum”).
+Question: Who was the first person to step on the moon? Answer: Neil Armstrong.
+Question: What is the largest mammal in the world? Answer: Blue whale.
+Question: Who painted the famous artwork “Starry Night”? Answer: Vincent van Gogh.
+Question: What is the currency of the United Kingdom? Answer: Pound sterling.
+Question: What is the capital of Brazil? Answer: Brasília.
+Question: Who is known as the father of modern physics? Answer: Isaac Newton.
+Question: What is the national flower of the United States? Answer: Rose.
+Question: Who discovered America? Answer: Christopher Columbus.
+Question: What is the speed of light? Answer: Approximately 299,792,458 meters per second (in a vacuum).
+Question: What is the largest desert in the world? Answer: Sahara Desert.
+Question: Who wrote “To Kill a Mockingbird”? Answer: Harper Lee.
+Question: What is the capital of China? Answer: Beijing.
+Question: Who invented the telephone? Answer: Alexander Graham Bell.
+Question: What is the smallest bone in the human body? Answer: Stapes (in the ear).
+Question: What is the national animal of Australia? Answer: Kangaroo.
+Question: Who painted the famous artwork “The Persistence of Memory”? Answer: Salvador Dalí.
+Question: What is the currency of Canada? Answer: Canadian dollar.
+Question: Who was the first woman to win a Nobel Prize? Answer: Marie Curie.
+Question: What is the capital of Russia? Answer: Moscow.
+Question: Who wrote “The Adventures of Tom Sawyer”? Answer: Mark Twain.
+Question: What is the longest bone in the human body? Answer: Femur.
+Question: What is the national bird of the United States? Answer: Bald eagle.
+Question: Who discovered gravity? Answer: Isaac Newton.
+Question: What is the largest city in the world by population? Answer: Tokyo.
+Question: Who painted the famous artwork “The Starry Night”? Answer: Vincent van Gogh.
+Question: What is the currency of India? Answer: Indian rupee.
+Question: What is the national sport of Canada? Answer: Ice hockey.
+Question: Who wrote “The Lord of the Rings”? Answer: J.R.R. Tolkien.
+Question: What is the capital of Spain? Answer: Madrid.
+Question: Who is often credited with inventing the first practical airplane? Answer: Wright brothers.
+Question: What is the national animal of China? Answer: Giant panda.
+Question: Who is the current Prime Minister of India? Answer: Narendra Modi.
+Question: What is the name of the ruling political party in India? Answer: Bharatiya Janata Party (BJP).
+Question: What is the name of the President of India? Answer: Ram Nath Kovind.
+Question: What is the name of the Vice President of India? Answer: M. Venkaiah Naidu.
+Question: What is the minimum age required to become a Member of Parliament (MP) in India? Answer: 25 years.
+Question: What is the name of the national legislative body in India? Answer: Parliament.
+Question: Who is the Speaker of the Lok Sabha (Lower House of Parliament) in India? Answer: Om Birla.
+Question: What is the maximum number of members allowed in the Lok Sabha (Lower House of Parliament) in India? Answer: 552 (530 members from states, up to 20 members from Union territories, and 2 Anglo-Indians nominated by the President).
+Question: What is the term length of the Lok Sabha (Lower House of Parliament) in India? Answer: 5 years.
+Question: What is the name of the Upper House of Parliament in India? Answer: Rajya Sabha.
+Question: Who is the Chairman of the Rajya Sabha (Upper House of Parliament) in India? Answer: Venkaiah Naidu.
+Question: What is the maximum number of members allowed in the Rajya Sabha (Upper House of Parliament) in India? Answer: 250 (238 members elected by the States and Union territories, and 12 members nominated by the President).
+Question: What is the term length of the Rajya Sabha (Upper House of Parliament) in India? Answer: 6 years.
+Question: What is the name of the political party founded by Mahatma Gandhi? Answer: Indian National Congress (INC).
+Question: Who is the Leader of the Opposition in the Lok Sabha (Lower House of Parliament) in India?
