@@ -17,7 +17,7 @@ def show_login():
             st.error("Invalid credentials")
 
 def show_main_app():
-    st.title(f"Welcome {st.session_state['email']} to the Streamlit App")
+    st.title(f"Welcome {st.session_state['email']} to the App")
     
     # Load the trained model
     model = joblib.load('qa_retrieval_model.pkl')
